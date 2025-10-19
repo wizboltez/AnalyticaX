@@ -15,7 +15,7 @@ It includes data preprocessing, feature engineering, and classification models (
 
 ## Requirements
 - Python 3.x  
-- pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, imbalanced-learn  
+- pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn  
 
 ## Usage
 1. Open the folder in Jupyter Notebook or VSCode.  
