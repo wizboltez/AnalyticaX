@@ -22,6 +22,6 @@ It includes data preprocessing, feature engineering, and classification models (
 2. Run notebooks step-by-step to reproduce data preprocessing and model results.  
 
 ## Author
-- Arjavi (124b1f125)
-- Anushka (124b1f128)
+- Arjavi (124B1F125)
+- Anushka (124B1F128)
 - Shruti (125B2F012)
